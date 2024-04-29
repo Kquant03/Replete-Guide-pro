@@ -3,5 +3,5 @@
   "Llama": "Llama",
   "Mistral": "Mistral",
   "Mixtral": "Mixtral/MoE",
-  "Phi": "Phi"
+  "phi": "Phi"
 }
