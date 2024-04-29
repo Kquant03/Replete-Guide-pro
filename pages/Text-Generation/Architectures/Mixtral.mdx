@@ -18,9 +18,8 @@ So, what exactly is a MoE? In the context of transformer models, a MoE consists 
 
 At every layer, for every token, a router network chooses two of these groups (the “experts”) to process the token and combine their output additively.
 
-<Image src="/MOE.png" alt="Switch Layer" width={1274} height={982} />
+<Image src="/MOE.png" alt="Switch Layer" width={1274} height={982} style={{ padding: '15px' }} />
 
-Switch Layer
 MoE layer from the [Switch Transformers paper](https://arxiv.org/abs/2101.03961)
 
 So, to recap, in MoEs we replace every FFN layer of the transformer model with an MoE layer, which is composed of a gate network and a certain number of experts.
