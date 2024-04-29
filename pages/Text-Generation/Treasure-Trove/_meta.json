@@ -1,5 +1,8 @@
 {
   "DPO": "DPO",
+  "DPOP": "DPOP",
   "KNN": "k-NN",
-  "Laser-RMT": "Laser-RMT"
+  "Laser-RMT": "Laser-RMT",
+  "ORPO": "ORPO",
+  "PPO": "PPO"
 }
