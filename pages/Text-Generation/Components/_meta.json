@@ -1,0 +1,14 @@
+{
+  "AddNorm": "Add and Norm",
+  "FFNs": "Feed-Forward Networks",
+  "LayerNorm": "Normalization Layer",
+  "Linear": "Linear/Fully-Connected Layer",
+  "MultiheadAttention": "Multihead Attention",
+  "MultiLayerPerceptron": "Multilayer Perceptron",
+  "PosEncoding": "Positional Encoding",
+  "RMS": "Root Mean Square Normalization",
+  "RoPE": "Rotary Position Embedding",
+  "SelfAttention": "Self-Attention",
+  "Softmax": "Softmax Layer",
+  "SWA": "Sliding Window Attention"
+}
