@@ -1,8 +1,8 @@
 {
   "index": "Introduction",
-  "RVC": "Voice Cloning",
   "Text-Generation": "Text Generation",
   "Image-Generation": "Image Generation",
+  "Text-to-Speech": "Text to Speech",
   "about": {
     "title": "About",
     "type": "page"
